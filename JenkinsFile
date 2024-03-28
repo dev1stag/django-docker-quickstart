@@ -1,4 +1,3 @@
-[13:46] Formation NEUROACTIVE
 pipeline {
 
     agent any
